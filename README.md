@@ -12,3 +12,9 @@ CharAt(index) -> string lere uygulanır. String i karakter array olarak ele alı
       
     }   
     System.out.println(reverse);
+ 
+ substring(index) -> Stringlere uygulanır. index+1 den baslayarak string i baslatıp sonlandırır. Geriye string doner.
+ 	
+	String Str = new String("Welcome to geeksforgeeks"); 
+	System.out.println(Str.substring(10));
+	// geeksforgeeks
