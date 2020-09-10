@@ -13,7 +13,7 @@ CharAt(index) -> string lere uygulanır. String i karakter array olarak ele alı
     }   
     System.out.println(reverse);
  
- substring(index) -> Stringlere uygulanır. index den baslayarak string i baslatıp sonlandırır. Geriye string doner.
+ substring(index) -> Stringlere uygulanır. index(dahil) den baslayarak string i baslatıp sonlandırır. Geriye string doner.
  	
 	String Str = new String("abc");
 	System.out.println(Str.substring(1)); 
