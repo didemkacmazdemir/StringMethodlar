@@ -20,7 +20,7 @@ CharAt(index) -> string lere uygulanır. String i karakter array olarak ele alı
 	// bc
 	
  -> recursive string reverse de kullanılır
-	 
+Aşağıda ana mantık string 1 kez gönderiliyor(recursive oldugu için) aynı string in 0. elemanı string in basından alıp sonuna ekliyoruz.
 	 String input = "AliveisAwesome";
   	//create Method and pass input string as parameter
   	String reversed = reverseString(input);
