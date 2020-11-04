@@ -13,7 +13,7 @@ CharAt(index) -> string lere uygulanır. String i karakter array olarak ele alı
     }   
     System.out.println(reverse);
  
- Substring [)
+ Substring => shortly : [ )
  ***
  public String substring(int startIndex)
  public String substring(int startIndex, int endIndex)
