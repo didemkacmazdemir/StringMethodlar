@@ -13,12 +13,13 @@ CharAt(index) -> string lere uygulanır. String i karakter array olarak ele alı
     }   
     System.out.println(reverse);
  
- Substring
+ Substring [)
  ***
  public String substring(int startIndex)
  public String substring(int startIndex, int endIndex)
  
  startIndex: inclusive
+ 
  endIndex: exclusive
  ***
  substring(index) -> Stringlere uygulanır. index(dahil) den baslayarak string in son elemanını alır (örneğin arr 0 dan baslıyor index 1 olursa 1 den 2 (0 ~ 2) ye kadar elemanları alır), string i baştan keser. Geriye string doner.
